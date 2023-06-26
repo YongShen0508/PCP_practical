@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe" exited with code 1168.
+LINK : fatal error LNK1168: cannot open C:\Users\yongs\Documents\Programming concept and practices\Practical 7\x64\Debug\Practical 7.exe for writing
