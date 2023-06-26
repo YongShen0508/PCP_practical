@@ -1,0 +1,12 @@
+Kuala Lumpur
+34.5
+Beijing
+9
+Canberra
+39
+Cairo
+22
+Eureka
+-29.6
+Moscow
+-3
